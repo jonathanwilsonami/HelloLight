@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloLight</string>
+    <string name="title">Hello Light Application</string>
+    <string name="light_button">On/Off</string>
+    <string name="light_status">No status...</string>
+<!--    <string name="data_output">Device Data:</string>-->
+</resources>
