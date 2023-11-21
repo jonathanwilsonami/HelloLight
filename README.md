@@ -2,8 +2,8 @@
 A simple hello world for an Android app and IoT device communication 
 
 # Demo
-https://youtube.com/shorts/62Dc0xWrAro?feature=share
-
+[https://youtube.com/shorts/62Dc0xWrAro?feature=share](https://youtube.com/shorts/Bc-0mg7ifKg?feature=share)
+https://youtube.com/shorts/Bc-0mg7ifKg?feature=share 
 # Diagram
 ![Diagram](HelloLight)
 
