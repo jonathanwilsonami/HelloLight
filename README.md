@@ -13,10 +13,9 @@ https://youtube.com/shorts/62Dc0xWrAro?feature=share
 - LED light
 - Wires
 - Development env was Ubuntu Linux and Android Samsung A51
--  
 
 # Setup & Notes
-- Setup Udev rules -
+- Setup Udev rules
   - Can use lsusb - list USB devices connected to system. Also contains the product and vender IDs
   - Setting up udev rules for an Arduino Mega 2560 on a Linux system can help ensure that the device is consistently recognized and assigned the same device file every time it's plugged in. This can be especially useful if you're working with multiple USB devices.
   - /etc/udev/rules.d/99-arduino.rules
